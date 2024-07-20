@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @salhiabdelkrim
-- 👀 I’m interested in software development 
-- 🌱 I’m currently learning python ,,c and java
+- 👀 I’m software ingineering student 
+- 🌱 I’m currently learning web and mobile developement 
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me : email adress -> adelk.salhi15@gmail.com
 
